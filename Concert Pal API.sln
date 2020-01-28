@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concert Pal API", "Concert Pal API\Concert Pal API.csproj", "{9EEE7602-605F-4BD1-96B7-5830C34183C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concert Pal API", "Concert Pal API\Concert Pal API.csproj", "{C3B1C07D-875A-456F-ACF6-A9905D4D4FB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9EEE7602-605F-4BD1-96B7-5830C34183C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9EEE7602-605F-4BD1-96B7-5830C34183C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9EEE7602-605F-4BD1-96B7-5830C34183C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9EEE7602-605F-4BD1-96B7-5830C34183C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B1C07D-875A-456F-ACF6-A9905D4D4FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B1C07D-875A-456F-ACF6-A9905D4D4FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B1C07D-875A-456F-ACF6-A9905D4D4FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B1C07D-875A-456F-ACF6-A9905D4D4FB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E6D15A77-C19E-4B1B-A5C3-260081CA1770}
+		SolutionGuid = {F6CA8C33-602C-4DEB-9695-F29E35C4B82C}
 	EndGlobalSection
 EndGlobal
